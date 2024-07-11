@@ -17,7 +17,7 @@ var dead = false
 
 #PULO
 
-
+#comentario de teste
 const GRAVITY = -40.0 
 const JUMP_SPEED = 8.0
 var jump_power = 4
